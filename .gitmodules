@@ -1,0 +1,6 @@
+[submodule "InvCon-Tool"]
+	path = InvCon-Tool
+	url = https://github.com/Franklinliu/InvCon-Tool.git
+[submodule "verisol"]
+	path = verisol
+	url = https://github.com/microsoft/verisol.git
