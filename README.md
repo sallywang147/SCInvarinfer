@@ -1,3 +1,9 @@
+**Fully automated T5-VeriSol Pipeline [2/26/2022]**
+
+1. automated and self-cleaned cache 
+2. If user wants to test their contract:
+  a) upload to the backend files directory on deepnote;
+  b) or a public drive;
 **Fully automated T5-VeriSol Pipeline [2/22/2022]**
 
 1. need to add boogie functionality
